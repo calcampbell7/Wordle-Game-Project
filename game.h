@@ -2,7 +2,7 @@
 #define WORD_LENGTH 6
 #define WORD_COUNT 65
 #define WORD_BUFFER_SIZE (WORD_LENGTH + 2)
-#define NUM_GUESSES 7
+#define NUM_GUESSES 6
 #define YELLOW_BG "\033[43m"
 #define GREEN_BG  "\033[42m"
 #define GRAY_BG   "\033[100m"
